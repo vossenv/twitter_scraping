@@ -6,4 +6,4 @@ var/
 .idea/
 *.log
 *.json
-
+*.yaml

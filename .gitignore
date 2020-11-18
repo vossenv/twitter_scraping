@@ -2,4 +2,8 @@ api_keys.json
 geckodriver.log
 /data
 
+var/
+.idea/
+*.log
+*.json
 
